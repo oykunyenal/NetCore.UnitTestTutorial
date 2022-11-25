@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.UnitTestTutorial.NUnitTestProject", "NetCore.UnitTestTutorial.NUnitTestProject\NetCore.UnitTestTutorial.NUnitTestProject.csproj", "{AA5D63D4-587C-4584-BF65-83A1B3703603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.UnitTestTutorial.JobApplicationLibrary", "NetCore.UnitTestTutorial.JobApplicationLibrary\NetCore.UnitTestTutorial.JobApplicationLibrary.csproj", "{C94F9DBE-7D47-4DCF-B887-0921F72B8AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5D63D4-587C-4584-BF65-83A1B3703603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5D63D4-587C-4584-BF65-83A1B3703603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5D63D4-587C-4584-BF65-83A1B3703603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5D63D4-587C-4584-BF65-83A1B3703603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94F9DBE-7D47-4DCF-B887-0921F72B8AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94F9DBE-7D47-4DCF-B887-0921F72B8AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94F9DBE-7D47-4DCF-B887-0921F72B8AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94F9DBE-7D47-4DCF-B887-0921F72B8AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E47640-5093-4E00-86CF-F2FF92DDE2DE}
+	EndGlobalSection
+EndGlobal
